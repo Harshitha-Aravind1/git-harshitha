@@ -9,7 +9,9 @@ public class CountClass {
 			System.out.println(i);
 		}
 		
-		
+		if(max>5)
+		{
+			system.out.println("max number will be");
 		
 	}
 
